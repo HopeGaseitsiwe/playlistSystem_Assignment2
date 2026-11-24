@@ -14,3 +14,4 @@ python test_playlist.py
 ## Notes
 - Playing music (option 14) works on Windows only.
 - Uses only Python's standard library, so nothing needs installing.
+- To play music, run: python -m pip install pygame
